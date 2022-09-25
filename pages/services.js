@@ -1,11 +1,12 @@
 import Navigation from "../components/navigation";
-const About = () => {
+
+const Services = () => {
   return (
     <>
       <Navigation />
-      <h1>About</h1>
+      <h1>Services</h1>
     </>
   );
 };
 
-export default About;
+export default Services;
